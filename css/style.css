@@ -1,0 +1,72 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container {
+    background-color: #CBCACC;
+}
+
+.banner-column {
+    background-color: #8B898B;
+}
+
+.navbar-container {
+    top: 0;
+    background-color: #272B38;
+    position: sticky;
+    z-index: 2;
+}
+
+.about-container {
+    background-color: #ac4f72;
+}
+
+.education-container {
+    background-color: #dedae2;
+}
+
+.bg-redtype {
+    background-color: #FB8580;
+}
+
+.bg-redtype-color {
+    color: #b94e4a;
+}
+
+.circle {
+    background-color: #b94e4aff;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.project-container {
+    background-color: #2DB1E1;
+}
+
+.form-container {
+    background-color: #474C5E;
+}
+
+.inner-form {
+    background-color: #52596F;
+}
+
+.footer {
+    background-color: #2388AD;
+}
+
+.icon {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #2DB1E1;
+}
+
+.icon:hover {
+    background-color: #474C5E;
+}
